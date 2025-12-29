@@ -26,8 +26,12 @@ Sensors (Audio + Motion) → ESP32 (TinyML Model) → Edge Decision Engine → A
 - Microphone Sensor
 - Wokwi Simulation Platform
 
-## Simulation
-Wokwi simulation demonstrates sensor input, distress detection logic, and alert triggering.
+## Wokwi Simulation (AIoT)
+This project includes an ESP32-based Wokwi simulation demonstrating
+edge-level alert logic for the GuardianEdge system.
+
+🔗 Wokwi Project Link: https://wokwi.com/projects/451683326205361153
+
 
 ## Team
 Team Name: HexPair  
